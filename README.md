@@ -10,17 +10,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-
-
-https://github.com/user-attachments/assets/1ea26947-1dca-408d-9741-b24c3429944a
-
-
 
 ## Overview
 
-Mind Mentor is an intelligent study companion that leverages AI to transform the learning experience. It combines personalized study planning, resource curation, and interactive assistance to help students achieve their academic goals efficiently.
+Mind Maven is an intelligent study companion that leverages AI to transform the learning experience. It combines personalized study planning, resource curation, and interactive assistance to help students achieve their academic goals efficiently.
 
 ## Key Features
 
@@ -84,9 +77,6 @@ Mind Mentor is an intelligent study companion that leverages AI to transform the
 - **Styling**: 
   - Tailwind CSS for utility-first styling
   - Shadcn UI for component library
-- **State Management**: 
-  - Zustand for global state
-  - React Query for server state
 - **Authentication**: NextAuth.js with JWT
 - **PDF Processing**:
   - React-PDF for document viewing
@@ -202,20 +192,5 @@ Used for:
 4. Navigate through the document while chatting
 5. Access chat history for previous conversations
 
-## Contributing
 
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to your branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built with 💡 by Kartik Labhshetwar
+Built with 💡 by Karan_dubey
