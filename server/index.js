@@ -30,7 +30,7 @@ const startServer = async () => {
   app.use(
     cors({
       origin: [
-        "https://major-karn.vercel.app/",
+        "https://major-karn.vercel.app",
         "https://major-karn.onrender.com",
         "http://localhost:3000",
       ],
